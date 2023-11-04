@@ -88,4 +88,4 @@ https://www.youtube.com/shorts/IPkXWiPFaq0
 
 Capturas de pantalla
 
-<img src="entrega/captura.png" width="240" height="480"/>
+<img src="entrega/home_page_tt.png" width="240" height="480"/>
