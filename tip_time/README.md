@@ -86,4 +86,6 @@ Estructuras complejas de interfaz.
 Link video
 https://www.youtube.com/shorts/IPkXWiPFaq0
 
-![Alt text](image.png)
+Capturas de pantalla
+
+<img src="entrega/captura.png" width="240" height="480"/>
