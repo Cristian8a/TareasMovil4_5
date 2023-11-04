@@ -54,3 +54,8 @@ Estructuras complejas de interfaz.
 Link video
 https://www.youtube.com/watch?v=EopldfYLerA
 
+Capturas de pantalla
+
+<img src="entrega/home_page.png" width="240" height="480"/>
+<img src="entrega/inputs_page.png" width="240" height="480"/>
+<img src="entrega/details_page.png" width="240" height="480"/>
